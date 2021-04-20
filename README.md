@@ -1,10 +1,9 @@
 
 
-<!--
-**hazelisles/hazelisles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**hazelisles/hazelisles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h3 align="center">A web development newbie from Taiwan</h3>
+<h3 align="center">A newbie of web development from Taiwan</h3>
 
 - 🌱 I’m currently learning **Full-stack development program in <img align="center" src="https://avatars.githubusercontent.com/u/8667311?s=200&v=4" height="30" width="30" /> AlphaCamp**
 
