@@ -10,11 +10,11 @@
 
 - 🌱 Finished learning **Full-stack development in [<img align="center" src="https://avatars.githubusercontent.com/u/8667311?s=200&v=4" height="30" width="30" /> AlphaCamp](https://tw.alphacamp.co/)** in 2021
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/hazelisles" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/github.png" alt="@hazelisles" height="30" width="30" />hazelisles</a>
+- 👨‍💻 Ongoing project - Vanilla JavaScript is available at <a href="https://github.com/hazelisles/vanillajs" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/github.png" alt="@hazelisles" height="30" width="30" />Hello Vanilla</a>
 
-- 📝 I sometimes write articles on <a href="https://hazelisles.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/90/000000/medium-monogram.png" alt="@hazelisles" height="30" width="30" />hazelisles</a>
+- 📝 My favorite side-project in 2021 <a href="https://github.com/hazelisles/expense-tracker" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_464494.png" alt="@hazelisles" height="30" width="30" /> web app - expense tracker</a>
 
-- 📫 How to reach me **zhccj19@gmail.com**
+- 📫 How to reach me **hazelcjchu@gmail.com**
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/hazelisles/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="hazelisles" height="30" width="30" />hazelisles</a>
 
