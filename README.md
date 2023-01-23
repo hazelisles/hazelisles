@@ -9,12 +9,12 @@
 
 
 - 🌱 Finished learning **Full-stack development in [<img align="center" src="https://avatars.githubusercontent.com/u/8667311?s=200&v=4" height="30" width="30" /> AlphaCamp](https://tw.alphacamp.co/)** in 2021
-
+<!--
 - 👨‍💻 Ongoing project - Vanilla JavaScript is available at <a href="https://github.com/hazelisles/vanillajs" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/github.png" alt="@hazelisles" height="30" width="30" />Hello Vanilla</a>
 
 - 📝 My favorite side-project in 2021 <a href="https://github.com/hazelisles/expense-tracker" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_464494.png" alt="@hazelisles" height="30" width="30" /> web app - expense tracker</a>
-
-- 📫 How to reach me **hazelcjchu@gmail.com**
+-->
+- 📫 Check my website and reach me <a href="https://hazelisles.github.io/en/" target="blank"><img align="center" src="https://github.com/hazelisles/hazelisles.github.io/blob/main/hazel-logo.png" width="80" alt="hazelLA" /></a>
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/hazelisles/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="hazelisles" height="30" width="30" />hazelisles</a>
 
