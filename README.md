@@ -9,7 +9,7 @@
 
 
 - 🌱 Finished learning **Full-stack development in [<img align="center" src="https://avatars.githubusercontent.com/u/8667311?s=200&v=4" height="30" width="30" /> AlphaCamp](https://tw.alphacamp.co/)** in 2021
-- 🌱 I’m currently learning **Unity Game Development and Swift Mobile Development**
+- 👨‍💻 I’m currently working on my Capstone project **Technical Department Inventory Management System** that build with **React, Node js** and **MySQL**.
 <!--
 - 👨‍💻 Ongoing project - Vanilla JavaScript is available at <a href="https://github.com/hazelisles/vanillajs" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/github.png" alt="@hazelisles" height="30" width="30" />Hello Vanilla</a>
 
